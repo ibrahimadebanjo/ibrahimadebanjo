@@ -14,7 +14,7 @@ Here are some ideas to get you started
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ibrahim Adebanjo</h1>
-<h3 align="center">I'm a Veterinary Medical Student and passionate Frontend Software Developer and AI/ML Engineer interested in Robotics and Automation in solving Animal health challenges worldwide.</h3>
+<h4 align="center">I'm a Veterinary Medical Student and passionate Frontend Software Developer and AI/ML Engineer also interested in Robotics and Automation </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimadeabanjo&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimadeabanjo" /> </p>
 
